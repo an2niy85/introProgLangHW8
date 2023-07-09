@@ -1,0 +1,15 @@
+C:\Users\an2niy85\repos\gb_ItoPC#_hw8\58\obj\Debug\net7.0\58.csproj.AssemblyReference.cache
+C:\Users\an2niy85\repos\gb_ItoPC#_hw8\58\obj\Debug\net7.0\58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\an2niy85\repos\gb_ItoPC#_hw8\58\obj\Debug\net7.0\58.AssemblyInfoInputs.cache
+C:\Users\an2niy85\repos\gb_ItoPC#_hw8\58\obj\Debug\net7.0\58.AssemblyInfo.cs
+C:\Users\an2niy85\repos\gb_ItoPC#_hw8\58\obj\Debug\net7.0\58.csproj.CoreCompileInputs.cache
+C:\Users\an2niy85\repos\gb_ItoPC#_hw8\58\bin\Debug\net7.0\58.exe
+C:\Users\an2niy85\repos\gb_ItoPC#_hw8\58\bin\Debug\net7.0\58.deps.json
+C:\Users\an2niy85\repos\gb_ItoPC#_hw8\58\bin\Debug\net7.0\58.runtimeconfig.json
+C:\Users\an2niy85\repos\gb_ItoPC#_hw8\58\bin\Debug\net7.0\58.dll
+C:\Users\an2niy85\repos\gb_ItoPC#_hw8\58\bin\Debug\net7.0\58.pdb
+C:\Users\an2niy85\repos\gb_ItoPC#_hw8\58\obj\Debug\net7.0\58.dll
+C:\Users\an2niy85\repos\gb_ItoPC#_hw8\58\obj\Debug\net7.0\refint\58.dll
+C:\Users\an2niy85\repos\gb_ItoPC#_hw8\58\obj\Debug\net7.0\58.pdb
+C:\Users\an2niy85\repos\gb_ItoPC#_hw8\58\obj\Debug\net7.0\58.genruntimeconfig.cache
+C:\Users\an2niy85\repos\gb_ItoPC#_hw8\58\obj\Debug\net7.0\ref\58.dll
